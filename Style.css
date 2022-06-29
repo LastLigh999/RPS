@@ -1,0 +1,13 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+}
+.button{
+    box-shadow: 1px 1px 30px 10px red;
+}
